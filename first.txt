@@ -1,1 +1,2 @@
 first file for my git project
+new line added
